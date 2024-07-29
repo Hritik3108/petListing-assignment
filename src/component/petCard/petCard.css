@@ -1,0 +1,27 @@
+.custom-carousel-slide{
+    max-height: 200px;
+    width: 100%;
+}
+
+.carousel-img{
+    object-fit: cover;
+    height: 200px;
+}
+
+.pin-icon{
+    color: #333333;
+}
+
+.card{
+    height: 380px;
+    width: 350px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.ellipsis {
+    width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
